@@ -1,0 +1,4 @@
+label,id,timestamp,query,user,text
+0,12345,2025-01-01T10:00:00Z,query1,user1,"This is amazing, I love it!"
+0,12346,2025-01-01T11:00:00Z,query2,user2,"I hate this product, it doesn't work."
+0,12347,2025-01-01T12:00:00Z,query3,user3,"It's okay, but not the best."
